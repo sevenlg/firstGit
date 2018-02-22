@@ -1,6 +1,6 @@
-2test git 
-2first add
-2second add
-third add
-forth add
-fifth add
+
+https://us-east-2.signin.aws.amazon.com/oauth?response_type=code&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&redirect_uri=https%3A%2F%2Fus-east-2.console.aws.amazon.com%2Fconsole%2Fhome%3Fregion%3Dus-east-2%26state%3DhashArgs%2523%26isauthcode%3Dtrue&forceMobileLayout=0&forceMobileApp=0
+
+アカウント: 522980271077
+ユーザ名: bicloud01
+パスワード: ZaCyoS]9QfKB
