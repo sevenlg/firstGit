@@ -1,0 +1,6 @@
+1  ssh-keygen -t rsa -C "sevenlg121@gmail.com"
+2  open ~/.ssh  查看生成的id_rsa , id_rsa.pub
+3  打开id_rsa.pub 里面的key 
+4  打开github里的settings里 SSH and GPG keys 
+5  点击new SSH key
+6  将步骤3 复制的key 复制到5开的对话框里
